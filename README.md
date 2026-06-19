@@ -11,7 +11,7 @@
   </a>
 </p>
 
-### 🛰️ Technical Stack & Pipeline # ARCRaidersFPSBooster: Advanced Hardware Tuning & Frame-Rate Optimization Framework
+###  Technical Stack & Pipeline # ARCRaidersFPSBooster: Advanced Hardware Tuning & Frame-Rate Optimization Framework
 
 **ARCRaidersFPSBooster** is a high-performance, non-intrusive system optimization tool and environment tuning framework engineered specifically for the fast-paced, visually intensive deployment layers of ARC Raiders. The application automates low-level system cleanups, reallocates active memory pools, refines hardware thread allocation, and modifies background OS services to achieve peak frame-rate responsiveness and minimal system input latency.
 
