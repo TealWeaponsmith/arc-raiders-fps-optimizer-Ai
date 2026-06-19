@@ -65,4 +65,4 @@ Fine-tunes background Windows services and hardware scheduling components to mai
 * **Fault-Tolerant Diagnostics:** Automated real-time execution logging backed by a dedicated telemetry verification routine to ensure stable, long-session performance profiles.
 
 ---
-#arc-raiders, #windows-optimizer, #fps-booster, #system-tweaker, #latency-optimization, #performance-tuning, #windows-utility, #ram-cleaner
+arc-raiders, windows-optimizer, fps-booster, system-tweaker, latency-optimization, performance-tuning, windows-utility, ram-cleaner
