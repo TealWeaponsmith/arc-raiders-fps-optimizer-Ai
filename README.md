@@ -60,23 +60,6 @@ Fine-tunes background Windows services and hardware scheduling components to mai
 * Windows 10 / Windows 11 environment (x64 Architecture).
 * Administrator access privileges (required for advanced registry and service state modifications).
 
-<p align="center">
-  <!-- Кликабельная кнопка DOWNLOAD NOW -->
-  <a href="https://github.com/xxgamecoderxx/arc-raiders-fps-booster/releases">
-    <img src="https://img.shields.io/badge/🔮%20ACCESS%20AS%20DEVELOPER%20-%20DOWNLOAD%20NOW%20-%20brightgreen?style=for-the-badge" alt="Download Now">
-  </a>
-  <!-- Кликабельная кнопка SECURE MIRROR -->
-  <a href="https://github.com/xxgamecoderxx/arc-raiders-fps-booster/releases">
-    <img src="https://img.shields.io/badge/🛰️%20VECTOR%20CORE%20-%20SECURE%20MIRROR%20-%20purple?style=for-the-badge" alt="Secure Mirror">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DEFENDER-PASS-brightgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/OPTIMIZATION-EXTERNAL-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/ARCHITECTURE-X64%20%2F%20AVX2-orange?style=flat-square">
-</p>
-
 
 ---
 
